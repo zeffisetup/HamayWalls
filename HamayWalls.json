@@ -1,6 +1,24 @@
 [
      {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP28.png",
+        "name": "AP28",
+        "collections": "AnimePixel"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP27.png",
+        "name": "AP27",
+        "collections": "AnimePixel"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP26.png",
+        "name": "AP26",
+        "collections": "AnimePixel"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA56.png",
         "name": "PA56",
         "collections": "PaperArt"
