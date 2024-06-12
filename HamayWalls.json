@@ -1,5 +1,23 @@
 [
-      {
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ33.png",
+        "name": "WZ33",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ32.png",
+        "name": "WZ32",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ31.png",
+        "name": "WZ31",
+        "collections": "WildlifeZen"
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ88.png",
         "name": "NZ88",
