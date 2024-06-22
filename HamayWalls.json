@@ -155,7 +155,7 @@
         "name": "WZ26",
         "collections": "WildlifeZen"
     },
-	{
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ25.png",
         "name": "WZ25",
@@ -305,9 +305,6 @@
         "name": "WZ01",
         "collections": "WildlifeZen"
     },
-
-
-
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA50.png",
@@ -608,10 +605,6 @@
         "name": "PA01",
         "collections": "PaperArt"
     },
-
-
-
-	
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV50.png",
@@ -912,10 +905,6 @@
         "name": "AV01",
         "collections": "AmoledVibe"
     },
-
-	
-
-    
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV50.png",
@@ -1216,11 +1205,6 @@
         "name": "MV01",
         "collections": "MinimalVision"
     },
-
-
-
-	
-
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP25.png",
@@ -1371,9 +1355,6 @@
         "name": "AP01",
         "collections": "AnimePixel"
     },
-
-
-    
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ85.png",
@@ -1829,7 +1810,7 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ10.png",
         "name": "NZ10",
         "collections": "NatureZen"
-    },	
+    },
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ09.png",
@@ -1884,9 +1865,6 @@
         "name": "NZ01",
         "collections": "NatureZen"
     },
-
-
-
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF25.png",
@@ -2037,10 +2015,6 @@
         "name": "GF01",
         "collections": "GradientFlow"
     },
-
-
-
-	
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE50.png",
@@ -2341,10 +2315,6 @@
         "name": "AE01",
         "collections": "AbstractEssence"
     },
-
-
-	
-
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SereneWaves/SW20.png",
@@ -2463,18 +2433,6 @@
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SereneWaves/SW01.png",
         "name": "SW01",
-         "collections": "SereneWaves"
+        "collections": "SereneWaves"
     }
-	    
 ]
-
-    
-    
-	
-
-
-
-
-
-
-	
