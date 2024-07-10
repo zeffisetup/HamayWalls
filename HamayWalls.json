@@ -2506,5 +2506,11 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SereneWaves/SW01.png",
         "name": "SW01",
         "collections": "SereneWaves"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://github.com/zeffisetup/HamayWalls/blob/main/Tablet/TB01.png",
+        "name": "TB01",
+        "collections": "Tablet"
     }
 ]
