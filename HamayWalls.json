@@ -2509,6 +2509,12 @@
     },
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Tablet/TB04.png",
+        "name": "TB04",
+        "collections": "Tablet"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Tablet/TB03.png",
         "name": "TB03",
         "collections": "Tablet"
