@@ -55,12 +55,6 @@
    },
    {
         "author": "Zeffi Setups",
-        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV54.jpg",
-        "name": "MV54",
-        "collections": "MinimalVision"
-    },
-    {
-        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A09.png",
         "name": "A09",
         "collections": "Animated"
@@ -168,6 +162,12 @@
         "collections": "SoftMinimal"
    },
    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV54.jpg",
+        "name": "MV54",
+        "collections": "MinimalVision"
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV53.png",
         "name": "MV53",
