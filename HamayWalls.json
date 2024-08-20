@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE62.png",
+        "name": "AE62",
+        "collections": "AbstractEssence"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE61.png",
+        "name": "AE61",
+        "collections": "AbstractEssence"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE60.png",
+        "name": "AE60",
+        "collections": "AbstractEssence"
+   },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A12.png",
         "name": "A12",
         "collections": "Animated"
