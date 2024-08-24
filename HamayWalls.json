@@ -1,6 +1,78 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA62.png",
+        "name": "PA62",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA61.png",
+        "name": "PA61",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA60.png",
+        "name": "PA60",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A15.png",
+        "name": "A15",
+        "collections": "Animated"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A14.png",
+        "name": "A14",
+        "collections": "Animated"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A13.png",
+        "name": "A13",
+        "collections": "Animated"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM09.png",
+        "name": "SM09",
+        "collections": "SoftMinimal"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM08.png",
+        "name": "SM08",
+        "collections": "SoftMinimal"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM07.png",
+        "name": "SM07",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV60.jgp",
+        "name": "MV60",
+        "collections": "MinimalVision"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV59.jpg",
+        "name": "MV59",
+        "collections": "MinimalVision"
+   },
+   {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV58.jpg",
+        "name": "MV58",
+        "collections": "MinimalVision"
+   },
+   {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE62.png",
         "name": "AE62",
         "collections": "AbstractEssence"
