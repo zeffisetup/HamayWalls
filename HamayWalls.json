@@ -1,6 +1,60 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE65.png",
+        "name": "AE65",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE64.png",
+        "name": "AE64",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE63.png",
+        "name": "AE63",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ102.png",
+        "name": "NZ102",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ101.png",
+        "name": "NZ101",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ100.png",
+        "name": "NZ100",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV58.jpg",
+        "name": "AV58",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV59.jpg",
+        "name": "AV59",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV60.jpg",
+        "name": "AV60",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA62.png",
         "name": "PA62",
         "collections": "PaperArt"
