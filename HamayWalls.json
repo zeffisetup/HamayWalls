@@ -1,6 +1,60 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A24.png",
+        "name": "A24",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A23.png",
+        "name": "A23",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A22.png",
+        "name": "A22",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Space/SP06.png",
+        "name": "SP06",
+        "collections": "Space"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Space/SP05.png",
+        "name": "SP05",
+        "collections": "Space"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Space/SP04.png",
+        "name": "SP04",
+        "collections": "Space"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV63.png",
+        "name": "AV63",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV62.png",
+        "name": "AV62",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV61.png",
+        "name": "AV61",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM12.jpg",
         "name": "SM12",
         "collections": "SoftMinimal"
@@ -181,8 +235,8 @@
     },
     {
         "author": "Zeffi Setups",
-        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV58.jpg",
-        "name": "AV58",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV60.jpg",
+        "name": "AV60",
         "collections": "AmoledVibe"
     },
     {
@@ -193,8 +247,8 @@
     },
     {
         "author": "Zeffi Setups",
-        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV60.jpg",
-        "name": "AV60",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV58.jpg",
+        "name": "AV58",
         "collections": "AmoledVibe"
     },
     {
