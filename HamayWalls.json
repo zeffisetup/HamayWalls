@@ -1,6 +1,78 @@
 [
      {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ36.png",
+        "name": "WZ36",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ35.png",
+        "name": "WZ35",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ34.png",
+        "name": "WZ34",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM18.png",
+        "name": "SM18",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM17.png",
+        "name": "SM17",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM16.png",
+        "name": "SM16",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A30.png",
+        "name": "A30",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A29.png",
+        "name": "A29",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A28.png",
+        "name": "A28",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA65.png",
+        "name": "PA65",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA64.png",
+        "name": "PA64",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA63.png",
+        "name": "PA63",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A27.png",
         "name": "A27",
         "collections": "Animated"
