@@ -1,6 +1,60 @@
 [
      {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM34.jpg",
+        "name": "SM34",
+        "collections": "SoftMinimal"
+     },
+     {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM33.jpg",
+        "name": "SM33",
+        "collections": "SoftMinimal"
+     },
+     {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM32.jpg",
+        "name": "SM32",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C15.jpg",
+        "name": "C15",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C14.jpg",
+        "name": "C14",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C13.jpg",
+        "name": "C13",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV73.png",
+        "name": "MV73",
+        "collections": "MinimalVision"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV72.png",
+        "name": "MV72",
+        "collections": "MinimalVision"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV71.png",
+        "name": "MV71",
+        "collections": "MinimalVision"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM31.jpg",
         "name": "SM31",
         "collections": "SoftMinimal"
