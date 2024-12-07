@@ -1,23 +1,77 @@
 [
-      {
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ39.png",
+        "name": "WZ39",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ38.png",
+        "name": "WZ38",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ37.png",
+        "name": "WZ37",
+        "collections": "WildlifeZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM40.jpg",
+        "name": "SM40",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM39.jpg",
+        "name": "SM39",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM38.jpg",
+        "name": "SM38",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE77.png",
+        "name": "AE77",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE76.png",
+        "name": "AE76",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE75.png",
+        "name": "AE75",
+        "collections": "AbstractEssence"
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM37.jpg",
         "name": "SM37",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM36.jpg",
         "name": "SM36",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM35.jpg",
         "name": "SM35",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF31.png",
         "name": "GF31",
@@ -40,32 +94,32 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D06.png",
         "name": "D06",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D05.png",
         "name": "D05",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D04.png",
         "name": "D04",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM34.jpg",
         "name": "SM34",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM33.jpg",
         "name": "SM33",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM32.jpg",
         "name": "SM32",
@@ -112,14 +166,14 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM31.jpg",
         "name": "SM31",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM30.jpg",
         "name": "SM30",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM29.jpg",
         "name": "SM29",
@@ -220,224 +274,224 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A39.png",
         "name": "A39",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A38.png",
         "name": "A38",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A37.png",
         "name": "A37",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM28.jpg",
         "name": "SM28",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM27.jpg",
         "name": "SM27",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM26.jpg",
         "name": "SM26",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D03.png",
         "name": "D03",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D02.png",
         "name": "D02",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D01.png",
         "name": "D01",
         "collections": "Dark"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV72.png",
         "name": "AV72",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV71.png",
         "name": "AV71",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV70.jpg",
         "name": "AV70",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A36.png",
         "name": "A36",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A35.png",
         "name": "A35",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A34.png",
         "name": "A34",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE74.png",
         "name": "AE74",
         "collections": "AbstractEssence"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE73.png",
         "name": "AE73",
         "collections": "AbstractEssence"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE72.png",
         "name": "AE72",
         "collections": "AbstractEssence"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM25.jpg",
         "name": "SM25",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM24.jpg",
         "name": "SM24",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM23.jpg",
         "name": "SM23",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV67.png",
         "name": "MV67",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV66.png",
         "name": "MV66",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV65.png",
         "name": "MV65",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV64.png",
         "name": "MV64",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A33.jpg",
         "name": "A33",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A32.jpg",
         "name": "A32",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A31.jpg",
         "name": "A31",
         "collections": "Animated"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM22.jpg",
         "name": "SM22",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM21.jpg",
         "name": "SM21",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM20.jpg",
         "name": "SM20",
         "collections": "SoftMinimal"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV69.png",
         "name": "AV69",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV68.png",
         "name": "AV68",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV67.png",
         "name": "AV67",
         "collections": "AmoledVibe"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV63.png",
         "name": "MV63",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV62.png",
         "name": "MV62",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV61.png",
         "name": "MV61",
         "collections": "MinimalVision"
-     },
-     {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ36.png",
         "name": "WZ36",
@@ -856,32 +910,32 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A15.png",
         "name": "A15",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A14.png",
         "name": "A14",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A13.png",
         "name": "A13",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM09.png",
         "name": "SM09",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM08.png",
         "name": "SM08",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM07.png",
         "name": "SM07",
@@ -898,31 +952,31 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV59.jpg",
         "name": "MV59",
         "collections": "MinimalVision"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV58.jpg",
         "name": "MV58",
         "collections": "MinimalVision"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE62.png",
         "name": "AE62",
         "collections": "AbstractEssence"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE61.png",
         "name": "AE61",
         "collections": "AbstractEssence"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE60.png",
         "name": "AE60",
         "collections": "AbstractEssence"
-   },
+    },
     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A12.png",
@@ -934,20 +988,20 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A11.png",
         "name": "A11",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A10.png",
         "name": "A10",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE59.png",
         "name": "AE59",
         "collections": "AbstractEssence"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE58.png",
         "name": "AE58",
@@ -1036,128 +1090,128 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C09.png",
         "name": "C09",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C08.png",
         "name": "C08",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C07.png",
         "name": "C07",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A09.png",
         "name": "A09",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A08.png",
         "name": "A08",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A07.png",
         "name": "A07",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ99.png",
         "name": "NZ99",
         "collections": "NatureZen"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ98.png",
         "name": "NZ98",
         "collections": "NatureZen"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ97.png",
         "name": "NZ97",
         "collections": "NatureZen"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM06.jpg",
         "name": "SM06",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM05.jpg",
         "name": "SM05",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM04.jpg",
         "name": "SM04",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C06.jpg",
         "name": "C06",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C05.jpg",
         "name": "C05",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C04.jpg",
         "name": "C04",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C03.png",
         "name": "C03",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C02.png",
         "name": "C02",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C01.png",
         "name": "C01",
         "collections": "Crayon"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM03.png",
         "name": "SM03",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM02.png",
         "name": "SM02",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM01.png",
         "name": "SM01",
         "collections": "SoftMinimal"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV54.jpg",
         "name": "MV54",
@@ -1168,38 +1222,38 @@
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV53.png",
         "name": "MV53",
         "collections": "MinimalVision"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV52.png",
         "name": "MV52",
         "collections": "MinimalVision"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV51.png",
         "name": "MV51",
         "collections": "MinimalVision"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A06.png",
         "name": "A06",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A05.png",
         "name": "A05",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A04.png",
         "name": "A04",
         "collections": "Animated"
-   },
-   {
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A01.png",
         "name": "A03",
