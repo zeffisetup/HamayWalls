@@ -1,6 +1,60 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ114.png",
+        "name": "NZ114",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ113.png",
+        "name": "NZ113",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ112.png",
+        "name": "NZ112",
+        "collections": "NatureZen"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE83.png",
+        "name": "AE83",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE82.png",
+        "name": "AE82",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE81.png",
+        "name": "AE81",
+        "collections": "AbstractEssence"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM46.jpg",
+        "name": "SM46",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM45.jpg",
+        "name": "SM45",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM44.jpg",
+        "name": "SM44",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM43.jpg",
         "name": "SM43",
         "collections": "SoftMinimal"
