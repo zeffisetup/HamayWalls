@@ -1,14 +1,56 @@
 [
+     {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA68.png",
+        "name": "PA68",
+        "collections": "PaperArt"
+    },
     {
         "author": "Zeffi Setups",
-        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM49.jpg",
-        "name": "SM49",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA67.png",
+        "name": "PA67",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA66.png",
+        "name": "PA66",
+        "collections": "PaperArt"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C18.png",
+        "name": "C18",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C17.png",
+        "name": "C17",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C16.png",
+        "name": "C16",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM52.png",
+        "name": "SM52",
         "collections": "SoftMinimal"
     },
     {
         "author": "Zeffi Setups",
-        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM48.jpg",
-        "name": "SM48",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM51.png",
+        "name": "SM51",
+        "collections": "SoftMinimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM50.png",
+        "name": "SM50",
         "collections": "SoftMinimal"
     },
     {
