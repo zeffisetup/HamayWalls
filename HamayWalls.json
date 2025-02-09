@@ -1,5 +1,23 @@
 [
-     {
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV84.png",
+        "name": "AV84",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV83.png",
+        "name": "AV83",
+        "collections": "AmoledVibe"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV82.png",
+        "name": "AV82",
+        "collections": "AmoledVibe"
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA68.png",
         "name": "PA68",
