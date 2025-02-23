@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF34.png",
+        "name": "GF34",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF33.png",
+        "name": "GF33",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF32.png",
+        "name": "GF32",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A45.png",
         "name": "A45",
         "collections": "Animated"
