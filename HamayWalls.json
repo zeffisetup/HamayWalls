@@ -1,6 +1,12 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Blur/BL01.jpg",
+        "name": "BL01",
+        "collections": "Blur"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF34.png",
         "name": "GF34",
         "collections": "GradientFlow"
