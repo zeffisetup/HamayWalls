@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C21.png",
+        "name": "C21",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C20.png",
+        "name": "C20",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C19.png",
+        "name": "C19",
+        "collections": "Crayon"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Blur/B03.jpg",
         "name": "BL03",
         "collections": "Blur"
