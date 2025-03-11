@@ -1,6 +1,12 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV77.png",
+        "name": "MV77",
+        "collections": "MinimalVision"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Crayon/C21.png",
         "name": "C21",
         "collections": "Crayon"
