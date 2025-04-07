@@ -1,6 +1,12 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Blur/BL08.jpg",
+        "name": "BL08",
+        "collections": "Blur"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV87.png",
         "name": "AV87",
         "collections": "AmoledVibe"
