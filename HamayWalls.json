@@ -1,6 +1,12 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF35.png",
+        "name": "GF35",
+        "collections": "GradientFlow"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV79.png",
         "name": "MV79",
         "collections": "MinimalVision"
