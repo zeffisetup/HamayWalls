@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D03.png",
+        "name": "D03",
+        "collections": "Dotted"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D02.png",
+        "name": "D02",
+        "collections": "Dotted"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D01.png",
+        "name": "D01",
+        "collections": "Dotted"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Space/SP07.png",
         "name": "SP07",
         "collections": "Space"
