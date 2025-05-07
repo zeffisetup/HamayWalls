@@ -1,29 +1,53 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF42.jpg",
+        "name": "GF42",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF41.jpg",
+        "name": "GF41",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF40.jpg",
+        "name": "GF40",
+        "collections": "GradientFlow"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF39.png",
+        "name": "GF39",
+        "collections": "GradientFlow"
+    }, 
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D03.png",
         "name": "D03",
         "collections": "Dotted"
-    },
-    {
+     },
+     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D02.png",
         "name": "D02",
         "collections": "Dotted"
-    },
-    {
+     },
+     {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D01.png",
         "name": "D01",
         "collections": "Dotted"
-    },
-    {
+      },
+      {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Space/SP07.png",
         "name": "SP07",
         "collections": "Space"
-    },
-    {
+      },
+      {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/GradientFlow/GF38.png",
         "name": "GF38",
