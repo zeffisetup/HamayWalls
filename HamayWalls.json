@@ -1,6 +1,24 @@
 [
      {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA80.png",
+        "name": "PA80",
+        "collections": "PaperArt"
+      },
+      {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA79.png",
+        "name": "PA79",
+        "collections": "PaperArt"
+      },
+      {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA78.png",
+        "name": "PA78",
+        "collections": "PaperArt"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AmoledVibe/AV90.png",
         "name": "AV90",
         "collections": "AmoledVibe"
