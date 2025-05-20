@@ -1,6 +1,12 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP32.png",
+        "name": "AP32",
+        "collections": "AnimePixel"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Blur/BL09.jpg",
         "name": "BL09",
         "collections": "Blur"
