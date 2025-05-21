@@ -1,6 +1,12 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ119.png",
+        "name": "NZ119",
+        "collections": "NatureZen"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AnimePixel/AP32.png",
         "name": "AP32",
         "collections": "AnimePixel"
