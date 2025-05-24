@@ -1,6 +1,24 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ45.png",
+        "name": "WZ45",
+        "collections": "WildlifeZen"
+     },
+     {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ44.png",
+        "name": "WZ44",
+        "collections": "WildlifeZen"
+     },
+     {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/WildlifeZen/WZ43.png",
+        "name": "WZ43",
+        "collections": "WildlifeZen"
+     },
+     {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV84.png",
         "name": "MV84",
         "collections": "MinimalVision"
