@@ -1,6 +1,12 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV85.png",
+        "name": "MV85",
+        "collections": "MinimalVision"
+      },
+      {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA82.png",
         "name": "PA82",
         "collections": "PaperArt"
