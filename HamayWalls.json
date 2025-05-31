@@ -1,6 +1,24 @@
 [
       {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D09.png",
+        "name": "D09",
+        "collections": "Dark"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D08.png",
+        "name": "D08",
+        "collections": "Dark"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D07.png",
+        "name": "D07",
+        "collections": "Dark"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/MinimalVision/MV86.png",
         "name": "MV86",
         "collections": "MinimalVision"
