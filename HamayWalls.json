@@ -1,17 +1,29 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D10.png",
+    "name": "D10",
+    "collections": "Dark"
+   },
+   {
+    "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dotted/D06.png",
+    "name": "D06",
+    "collections": "Dotted"
+   }, 
+   {
+    "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA85.png",
     "name": "PA85",
     "collections": "PaperArt"
-  },
-  {
+   },
+   {
     "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA84.png",
     "name": "PA84",
     "collections": "PaperArt"
-  },
-  {
+   },
+   {
     "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/PaperArt/PA83.png",
     "name": "PA83",
