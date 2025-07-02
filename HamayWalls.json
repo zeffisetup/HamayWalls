@@ -1,6 +1,18 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ124.jpg",
+    "name": "NZ124",
+    "collections": "NatureZen"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ123.jpg",
+    "name": "NZ123",
+    "collections": "NatureZen"
+  },
+  {
+    "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Animated/A49.png",
     "name": "A49",
     "collections": "Animated"
