@@ -1,6 +1,12 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/Dark/D12.jpg",
+    "name": "D12",
+    "collections": "Dark"
+   },
+   {
+    "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/NatureZen/NZ124.jpg",
     "name": "NZ124",
     "collections": "NatureZen"
