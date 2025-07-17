@@ -1,5 +1,11 @@
 [
-   {
+    {
+    "author": "Zeffi Setups",
+    "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/AbstractEssence/AE90.png",
+    "name": "AE90",
+    "collections": "AbstractEssence"
+  },
+  {
     "author": "Zeffi Setups",
     "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls/main/SoftMinimal/SM53.png",
     "name": "SM53",
