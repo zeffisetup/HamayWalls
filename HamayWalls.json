@@ -1,5 +1,22 @@
 [
-    {
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/WildlifeZen/WZ48.png",
+    "name": "WZ48",
+    "collections": "WildlifeZen"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/WildlifeZen/WZ47.png",
+    "name": "WZ47",
+    "collections": "WildlifeZen"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/WildlifeZen/WZ46.png",
+    "name": "WZ46",
+    "collections": "WildlifeZen"
+  },{
     "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Animated/A58.png",
     "name": "A58",
