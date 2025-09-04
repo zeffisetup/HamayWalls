@@ -1,6 +1,12 @@
 [
     {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/AbstractEssence/AE102.png",
+    "name": "AE102",
+    "collections": "AbstractEssence"
+  },
+  {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/WildlifeZen/WZ49.png",
     "name": "WZ49",
     "collections": "WildlifeZen"
