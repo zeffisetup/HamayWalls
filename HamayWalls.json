@@ -1,6 +1,24 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/PaperArt/PA110.png",
+    "name": "PA110",
+    "collections": "PaperArt"
+   },
+   {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/PaperArt/PA109.png",
+    "name": "PA109",
+    "collections": "PaperArt"
+   },
+   {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/PaperArt/PA108.png",
+    "name": "PA108",
+    "collections": "PaperArt"
+   },
+   {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL10.png",
     "name": "BL10",
     "collections": "Blur"
