@@ -1,6 +1,12 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Dark/D14.png",
+    "name": "D14",
+    "collections": "Dark"
+   },
+   {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/NatureZen/NZ131.png",
     "name": "NZ131",
     "collections": "NatureZen"
