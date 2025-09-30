@@ -1,6 +1,18 @@
 [
     {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL12.jpg",
+    "name": "BL12",
+    "collections": "Blur"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL11.jpg",
+    "name": "BL11",
+    "collections": "Blur"
+  },
+  {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Crayon/C24.png",
     "name": "C24",
     "collections": "Crayon"
