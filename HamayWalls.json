@@ -1,5 +1,23 @@
 [
-    {
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL15.jpg",
+    "name": "BL15",
+    "collections": "Blur"
+  },
+   {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL14.jpg",
+    "name": "BL14",
+    "collections": "Blur"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL13.jpg",
+    "name": "BL13",
+    "collections": "Blur"
+  },
+  {
     "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/MinimalVision/MV88.png",
     "name": "MV88",
