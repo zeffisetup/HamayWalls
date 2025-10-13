@@ -1,5 +1,11 @@
 [
-  {
+   {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Dotted/D08.png",
+    "name": "D08",
+    "collections": "Dotted"
+   }, 
+   {
     "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Blur/BL15.jpg",
     "name": "BL15",
