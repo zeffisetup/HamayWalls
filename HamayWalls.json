@@ -1,6 +1,12 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Dotted/D09.png",
+    "name": "D09",
+    "collections": "Dotted"
+   }, 
+   {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Animated/A63.jpg",
     "name": "A63",
     "collections": "Animated"
