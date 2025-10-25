@@ -1,6 +1,24 @@
 [
    {
     "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Animated/A66.png",
+    "name": "A66",
+    "collections": "Animated"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Animated/A65.png",
+    "name": "A65",
+    "collections": "Animated"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Animated/A64.png",
+    "name": "A64",
+    "collections": "Animated"
+  },
+  {
+    "author": "Zeffi Setups",
     "url": "https://cdn.jsdelivr.net/gh/zeffisetup/HamayWalls/Dotted/D09.png",
     "name": "D09",
     "collections": "Dotted"
